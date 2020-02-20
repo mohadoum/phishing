@@ -1,5 +1,5 @@
 # phishing
-Ce projet a pour objectif d'utiliser les algorithmes de machine learning pour aider à une détection de site web de phishing efficace contre les zéros-day phishing sites. Il a été implémenté avec les technologies JEE et Python. Cependant la veuleur du travail ne réside pas en l'utilisation du modèle sur un site web (une utilisation qui n'est pas encore finie, voir la section manquements); mais plutôt 
+Ce projet a pour objectif d'utiliser les algorithmes de machine learning pour aider à une détection de site web de phishing efficace contre les zéros-day phishing sites. Il a été implémenté avec les technologies JEE et Python. Cependant la valeur du travail ne réside pas en l'utilisation du modèle sur un site web (une utilisation qui n'est pas encore finie, voir la section manquements); mais plutôt 
 en la réalisation du modèle gràce à la plateforme colab.
 
 Réalisation
