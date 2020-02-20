@@ -1,2 +1,5 @@
 *.java linguist-detectable=false
 *.class linguist-detectable=false
+*.jsp linguist-detectable=false
+*.jar linguist-detectable=false
+*.xml linguist-detectable=false
