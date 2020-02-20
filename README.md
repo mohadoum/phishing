@@ -30,7 +30,12 @@ modèle à chaque fois.
 
 Tester
 -----
-NIOdzsd
+Pour tester l'execution de ce projet, il faut:                                                                         
+
+1. Disposer d'un environnement JEE où importer le projet;                                                                
+2. Disposer d'un environnement python en local permettant d'executer la commande python monFichier.py pour executer un script python 
+à partir du cmd windows ou shell (non testé);                                                                     
+3. Installer toutes les dépendances de modules du modèle dans (/WebContent/META-INF/model/model.py) gràce à la commande 'pip install module-name' car le projet utilise le cmd ou shell local pour executer un script python et exploiter ses outputs.   
                                                                                                                                                                       
 Auteurs
 -------
