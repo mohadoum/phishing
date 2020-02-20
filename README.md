@@ -13,7 +13,8 @@ Et https://colab.research.google.com/drive/151-F9R8mUjVEVJq0sqrW31wAlhXqd5mg pou
 
 Références
 ----------
-Ce travail a été réalisé en synthétisant plusieurs ressources sur le web notamment:       * https://www.researchgate.net/publication/328541785_Phishing_Website_Detection_using_Machine_Learning_Algorithms            
+Ce travail a été réalisé en synthétisant plusieurs ressources sur le web notamment:  
+* https://www.researchgate.net/publication/328541785_Phishing_Website_Detection_using_Machine_Learning_Algorithms             
 * https://www.kaggle.com/akashkr/phishing-website-dataset                                                             
 * https://www.kaggle.com/shubha23/identification-of-phishing-websites                                                    
 Donc un grand merci à toutes ces personnes.
